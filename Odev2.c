@@ -87,6 +87,12 @@ int main()
 		goto baslangic;
 	}
 	break;
+		
+		default:
+		
+		printf("Yanlis islem lutfen 1-5 arasinda bir deger giriniz\n");
+		goto baslangic;
+		break;		
 			
 			
 			
